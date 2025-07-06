@@ -6,7 +6,7 @@ This documentation will cover everything required to get started, configure and 
 
 ## Getting Started
 
-Start with the [Installation Guide](installation-guide.md/) section. It will guide you through the installation process. The [Introduction](introduction.md/) page will introduce the most important components and features.
+Start with the [Installation Guide](Documentation~/installation-guide.md/) section. It will guide you through the installation process. The [Introduction](Documentation~/introduction.md/) page will introduce the most important components and features.
 
 ## Examples
 
