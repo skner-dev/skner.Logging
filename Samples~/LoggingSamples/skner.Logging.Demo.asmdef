@@ -1,0 +1,16 @@
+{
+    "name": "skner.LoggingToolkit.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5c1bd8f8dab7eac4d8b5e040ba414b16"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

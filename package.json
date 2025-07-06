@@ -1,0 +1,21 @@
+{
+  "name": "com.skner.logging",
+  "version": "2.0.0",
+  "displayName": "skner's Logging",
+  "description": "This library provides a powerful, customizable and intuitive logging solution for Unity projects.",
+  "documentationUrl": "https://github.com/skner-dev/skner-logging/tree/main/Documentation~",
+  "changelogUrl": "https://github.com/skner-dev/skner-logging/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://unity.com/legal/as-terms",
+  "keywords": [],
+  "author": {
+    "name": "skner",
+    "email": "sknerdev@outlook.com"
+  },
+  "samples": [
+    {
+      "displayName": "Logging Samples",
+      "description": "Contains configuration and usage examples for the logging toolkit.",
+      "path": "Samples~/LoggingSamples"
+    }
+  ]
+}
