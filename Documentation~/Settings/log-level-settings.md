@@ -8,7 +8,7 @@ skner's Logging provides a way to fully create and customize any additional log 
 
 This page will describe how to configure log levels and how to use them in any of the available loggers. 
 
-![](/images/loglevelsettings.png)
+![](../images/loglevelsettings.png)
 
 ___Disclaimer__: Do not manually edit the LogLevelSettings ScriptableObject. The 3 default levels are mandatory and any unexpected change might result in the package to behave abnormally._
 
@@ -33,7 +33,7 @@ This section will outline to completely create a new log level. As a use case, l
 
 1. Add the Log Level to the Project Settings and configure it accordingly.
 
-    ![](/images/loglevelsettings_tutorial1.png)
+    ![](../images/loglevelsettings_tutorial1.png)
 
 2. When logging, call the base Log method, passing the name of the log level:
 
@@ -45,7 +45,7 @@ This section will outline to completely create a new log level. As a use case, l
 
 3. Results
 
-    ![](/images/loglevelsettings_tutorial2.png)
+    ![](../images/loglevelsettings_tutorial2.png)
 
 And that's about it. These are the minimum steps to add a new Log Level, however, the tool provides a way to enhance the integration of this new level with the existing tools. s
 

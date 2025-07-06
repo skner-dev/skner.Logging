@@ -8,7 +8,7 @@ The Log Path is a struct that facilitates the definition of a file path. It cont
 
 The BasePath is an enum that encapsulates Application paths to easily display it in the Unity Inspector:
 
-![LogPath as seen in the Unity Editor](/images/logpath.png)
+![LogPath as seen in the Unity Editor](../images/logpath.png)
 
 Here's the BasePath mapping:
 

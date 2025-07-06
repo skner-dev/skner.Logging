@@ -14,4 +14,4 @@ Explore practical examples and use cases in the [Examples](examples.md/) section
 
 ## Suggestions and Feedback
 
-Feel free to suggest a feature and/or provide feedback. Contact me at sknerdev@outlook.com.
+Feel free to suggest a feature and/or provide feedback. Contact me at sknerdev@protonmail.com.

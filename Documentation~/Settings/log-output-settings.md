@@ -51,7 +51,7 @@ This section will demonstrate how to fully implement a brand new log output. It 
 
     Example on how these three different output modules affect the inspector window for the TxtLogOutputSettings:
 
-    ![TxtLogOutputSettings inspector preview](/images/logoutputsettings_tutorial1.png)
+    ![TxtLogOutputSettings inspector preview](../images/logoutputsettings_tutorial1.png)
 
 ## Instantiating 
 
@@ -59,7 +59,7 @@ After the log output has been created, a settings object must be created and con
 
 1. Create an instance of the log output settings by going to Assets -> Create -> Logging -> Log Output Settings -> Your implementation. Choose a name for this instance.
 
-    ![TxtLogOutputSettings in the Resources folder](/images/logoutputsettings_tutorial2.png)
+    ![TxtLogOutputSettings in the Resources folder](../images/logoutputsettings_tutorial2.png)
 
     Ensure that the `CreateAssetMenu` was added in the log output creation steps.
 
@@ -67,7 +67,7 @@ After the log output has been created, a settings object must be created and con
 
     Here's a sample TXT Log Output Settings:
 
-    ![TxtLogOutputSettings inspector preview](/images/logoutputsettings_tutorial1.png)
+    ![TxtLogOutputSettings inspector preview](../images/logoutputsettings_tutorial1.png)
 
 ## Assigning 
 
@@ -75,14 +75,14 @@ With a configured instance of the new log output settings, the developer can ass
 
 1. Go to any existing Logger Settings instance:
 
-    ![](/images/logoutputsettings_tutorial3.png)
+    ![](../images/logoutputsettings_tutorial3.png)
 
 2. Enable `Log To External` and click `Add Log Output Entry`:
 
-    ![](/images/logoutputsettings_tutorial4.png)
+    ![](../images/logoutputsettings_tutorial4.png)
 
 3. Drag and drop the created log output settings into the box.
 
-    ![](/images/logoutputsettings_tutorial5.png)
+    ![](../images/logoutputsettings_tutorial5.png)
 
 With this, any Log call to a logger making use of these logger settings will redirect every log message (after the log level filter is applied) to the configured log output. 

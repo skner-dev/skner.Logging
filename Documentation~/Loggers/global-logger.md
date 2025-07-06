@@ -8,7 +8,7 @@ The GlobalLogger is a singleton logger. It facilitates logging throughout the pr
 
 The configuration for GlobalLogger is located in the Project Settings:
 
-![GlobalLogger Settings](/images/globallogger.png)
+![GlobalLogger Settings](../images/globallogger.png)
 
 This references a ScriptableObject that comes pre-packaged in the Resources folder. __Editing these files outside of the Project Settings is possible, but it can lead to unexpected behaviours that are not supported by the library.__
 

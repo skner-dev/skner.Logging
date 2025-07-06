@@ -26,10 +26,10 @@ Click 'Open in Unity', which will automatically launch your Unity Editor and pro
 
 After the package has been added, go to your project settings and find the skner's Logging entry. If the resource files were not imported, the panel will display as follows: 
 
-![Initial project settings view](/images/project-settings-initial.png)
+![Initial project settings view](images/project-settings-initial.png)
 
 This is because two configuration files are required in the Resources folder for the package to work properly. The location of these two resources is static and cannot be changed.
 
 Click in both buttons to create it and the package will generate these automatically with the default settings. They will be created in the Resources folder of your project:
 
-![Location of the required resource files](/images/resource-files.png)
+![Location of the required resource files](images/resource-files.png)

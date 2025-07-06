@@ -10,11 +10,11 @@ The log format allows the developer to easily create a format for the log messag
 
 When any field or property of type LogFormat is included in any script, a custom PropertyDrawer will be applied:
 
-![](/images/logformat_propertydrawer.png)
+![](../images/logformat_propertydrawer.png)
 
 The button on the right will open a pop up window that allows the developer to add tags and fully customize their log message.
 
-![](/images/logformat_editorwindow.png)
+![](../images/logformat_editorwindow.png)
 
 This windows contains the following:
 - All the available tags that, when clicked, are added to the Log Format Editor panel.
