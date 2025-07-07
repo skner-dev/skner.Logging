@@ -1,8 +1,19 @@
-# Welcome to skner's Logging for Unity
+# skner's Logging
 
-Welcome to the documentation for my Logging library! This package provides a powerful, customizable and intuitive logging solution for Unity projects. 
+Welcome to the repository of my Logging library! 
 
-This documentation will cover everything required to get started, configure and use the package effectively. 
+Available in the [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/skner-s-logging-toolkit-271955)!
+
+## Features
+
+With this library, you have access to:
+
+- 🧵 __Tailored Logging__: Three specialized default logger types provide full customization and extensive usability.
+- 📋 __Customizable Log Levels__: Configure any log level directly from the Editor.
+- ✨ __Enriched Log Context__: Each log message contains context beyond just a simple text message.
+- ➡️ __Flexible Log Output__: Log to Unity Console, files, online storages or all at the same time.
+- ⚙️ __Powerful configuration__: Easy and effective configuration for every component.
+- 🤝 __Full extensability__: Made to be expanded and further customized by advanced devs.
 
 ## Getting Started
 
@@ -10,7 +21,7 @@ Start with the [Installation Guide](Documentation~/installation-guide.md/) secti
 
 ## Examples
 
-Explore practical examples and use cases in the [Examples](examples.md/) section. These examples provide hands-on guidance for common scenarios.
+Explore practical examples and use cases in the [Examples](Documentation~/examples.md/) section. These examples provide hands-on guidance for common scenarios.
 
 ## Suggestions and Feedback
 
