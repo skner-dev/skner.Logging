@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.0.0] - 
+## [2.0.0] - 2025-07-07
 
 - Made package completely open source
 - Rebranded from skner's Logging Toolkit to skner's Logging
